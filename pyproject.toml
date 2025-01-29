@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "modalizer"
+version = "0.1.0"
+description = ""
+authors = ["Sarah Baur <sarah.baur@uzh.ch>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+spacy = "^3.5.3"
+memory-profiler = "^0.61.0"
+argparse = "^1.4.0"
+pytest = "^7.3.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
