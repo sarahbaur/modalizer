@@ -1,6 +1,6 @@
 # MODALIZER: The Use of Modals in Debates and Dialogue
 
-Count and categorize modals for each person participating in the presidential debates or any other similarly structured format.
+Count the number of modals for each person participating in the dialogue.
 
 ## Introduction
 In the past few years political debates have become much more heated and further fuel the polarization of the left and right. Different fields of linguistics can help analyze these debates, for example through investigating the use of modal verbs (i.e. modality) between the participants (Dunmire 2007). 
